@@ -1,0 +1,14 @@
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.exe
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.deps.json
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.runtimeconfig.json
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.runtimeconfig.dev.json
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.dll
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\bin\Debug\netcoreapp3.1\MethodAlg.pdb
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.csproj.AssemblyReference.cache
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.AssemblyInfoInputs.cache
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.AssemblyInfo.cs
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.csproj.CoreCompileInputs.cache
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.dll
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.pdb
+C:\Users\Fatime\source\repos\MethodAlg\MethodAlg\obj\Debug\netcoreapp3.1\MethodAlg.genruntimeconfig.cache
